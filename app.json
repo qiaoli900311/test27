@@ -1,0 +1,19 @@
+{
+  "appKey": "ewPm7fRqg350UOw3pHPBSSEqVp8BRYsS",
+  "appSecret": "H2Sc4af3UxBxuhqbObYmmISciXUqKTuF",
+  "projectId": "e002061c12cf923d4a4158be1ad05184",
+  "id": 158,
+  "name": "sheji-keshihua",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/qiaoli900311/test27.git",
+    "isPrivate": 0,
+    "username": "qiaoli900311",
+    "password": "48111400qiaoli"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
